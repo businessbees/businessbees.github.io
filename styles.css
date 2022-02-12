@@ -238,14 +238,14 @@ h1.name {
 .skill-meta {
 	vertical-align: top;
 	display: inline-block;
-	max-width: 300px;
+	max-width: 250px;
 	text-align: left;
 	margin-top: 15px;
 	margin-left: 15px;
 }
 
 .skill-meta h3 {
-	font-size: 20px;
+	font-size: 35px;
 	font-weight: 800;
 	color: #5B6A9A;
 	margin-bottom: 5px;
@@ -254,7 +254,7 @@ h1.name {
 .skill-meta span{
 	color: #81899C;
 	line-height: 20px;
-	font-size: 16px;
+	font-size: 24px;
 }
 
 /* Achievements ends */
