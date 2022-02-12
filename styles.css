@@ -236,7 +236,7 @@ h1.name {
 }
 
 .skill-meta {
-	vertical-align: top;
+	vertical-align: left;
 	display: inline-block;
 	max-width: 250px;
 	text-align: left;
