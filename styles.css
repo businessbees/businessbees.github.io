@@ -199,10 +199,10 @@ h1.name {
 	background-color: #EEF0F7;
 	display: inline-block;
 	margin: 7px 5px;
-	vertical-align: top-left;
+	vertical-align: top;
 	border-radius: 10px;
-	text-align: top-left;
-	padding-top: 30px
+	text-align: center;
+	padding-top: 10px
 }
 
 .card-active , .card:hover{
@@ -216,7 +216,7 @@ h1.name {
 
 .skill-level {
 	display: inline-block;
-	max-width: 160px;
+	max-width: 190px;
 }
 
 .skill-level span {
@@ -227,8 +227,8 @@ h1.name {
 }
 
 .skill-level h2 {
-	font-size: 95px;
-	font-weight: 300;
+	font-size: 80px;
+	font-weight: 280;
 	display: inline-block;
 	vertical-align: top;
 	color: #5B6A9A;
@@ -245,7 +245,7 @@ h1.name {
 }
 
 .skill-meta h3 {
-	font-size: 35px;
+	font-size: 30px;
 	font-weight: 800;
 	color: #5B6A9A;
 	margin-bottom: 5px;
@@ -253,8 +253,8 @@ h1.name {
 
 .skill-meta span{
 	color: #81899C;
-	line-height: 20px;
-	font-size: 24px;
+	line-height: 15px;
+	font-size: 22px;
 }
 
 /* Achievements ends */
